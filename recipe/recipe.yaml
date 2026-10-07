@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: 0.3b0
+  version: "0.4b0"
 
 package:
   name: opentelemetry-opamp-client
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/o/opentelemetry-opamp-client/opentelemetry_opamp_client-${{ version }}.tar.gz
-  sha256: e49e4a49e5177fa20feef6a96760aeae4f84060ce2058a8da29a43354b74ee7d
+  sha256: 764d5b6d8e8ca6234af8ebb60fe063a85f3e6784f2566d7e894f1fba7db81cdb
 
 build:
   number: 0
